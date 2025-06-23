@@ -2,16 +2,6 @@
 
 A responsive, interactive 3D website for Stigma's server-side tagging platform with animated data visualizations.
 
-## File Structure
-
-stigma-website/
-├── index.html # Main HTML structure
-├── styles/
-│ └── main.css # All CSS styles and responsive design
-├── scripts/
-│ └── main.js # JavaScript interactions and 3D animations
-└── README.md # Project documentation
-
 ## Features
 
 - **Interactive 3D Animations**: Data visualization with Three.js
